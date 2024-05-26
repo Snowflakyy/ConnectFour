@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="ConnectFourMockUp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CourseWorkConnectFourishMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormSetting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormSettings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PauseForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PopUp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StartMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="_ResultRow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Update="CourseWorkConnectFourishMain.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Update="FormSettings.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>

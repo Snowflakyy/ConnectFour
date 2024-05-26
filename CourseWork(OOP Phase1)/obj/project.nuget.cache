@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "0uF4mGZ0q6uhggN368AlTJYvKGDwPJwOvtY1AFzn8DhXoSnouysxxVu2Mbk9KiKVCS3pbtpJbyYvGYB3vExZEA==",
+  "success": true,
+  "projectFilePath": "D:\\TU course work\\PHASE 3\\CourseWork(OOP Phase1)\\CourseWork(OOP Phase1)\\CourseWork(OOP Phase1).csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yavor\\.nuget\\packages\\accord\\3.8.0\\accord.3.8.0.nupkg.sha512",
+    "C:\\Users\\Yavor\\.nuget\\packages\\accord.imaging\\3.8.0\\accord.imaging.3.8.0.nupkg.sha512",
+    "C:\\Users\\Yavor\\.nuget\\packages\\accord.math\\3.8.0\\accord.math.3.8.0.nupkg.sha512",
+    "C:\\Users\\Yavor\\.nuget\\packages\\accord.statistics\\3.8.0\\accord.statistics.3.8.0.nupkg.sha512",
+    "C:\\Users\\Yavor\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\Yavor\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Yavor\\.nuget\\packages\\runtime.osx.10.10-x64.corecompat.system.drawing\\6.0.5.128\\runtime.osx.10.10-x64.corecompat.system.drawing.6.0.5.128.nupkg.sha512",
+    "C:\\Users\\Yavor\\.nuget\\packages\\system.drawing.common\\8.0.4\\system.drawing.common.8.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

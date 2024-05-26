@@ -1,0 +1,610 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TU course work\\PHASE 3\\CourseWork(OOP Phase1)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC5C579-9DD9-44DA-9023-20A863FB9390}|CourseWork(OOP Phase1)\\CourseWork(OOP Phase1).csproj|d:\\tu course work\\phase 3\\coursework(oop phase1)\\coursework(oop phase1)\\connectfourmockup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC5C579-9DD9-44DA-9023-20A863FB9390}|CourseWork(OOP Phase1)\\CourseWork(OOP Phase1).csproj|solutionrelative:coursework(oop phase1)\\connectfourmockup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\TU course work\\CourseWork(OOP Phase1)\\test(updated).json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC5C579-9DD9-44DA-9023-20A863FB9390}|CourseWork(OOP Phase1)\\CourseWork(OOP Phase1).csproj|d:\\tu course work\\phase 3\\coursework(oop phase1)\\coursework(oop phase1)\\courseworkconnectfourishmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC5C579-9DD9-44DA-9023-20A863FB9390}|CourseWork(OOP Phase1)\\CourseWork(OOP Phase1).csproj|solutionrelative:coursework(oop phase1)\\courseworkconnectfourishmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC5C579-9DD9-44DA-9023-20A863FB9390}|CourseWork(OOP Phase1)\\CourseWork(OOP Phase1).csproj|d:\\tu course work\\phase 3\\coursework(oop phase1)\\coursework(oop phase1)\\gamelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC5C579-9DD9-44DA-9023-20A863FB9390}|CourseWork(OOP Phase1)\\CourseWork(OOP Phase1).csproj|solutionrelative:coursework(oop phase1)\\gamelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC5C579-9DD9-44DA-9023-20A863FB9390}|CourseWork(OOP Phase1)\\CourseWork(OOP Phase1).csproj|d:\\tu course work\\phase 3\\coursework(oop phase1)\\coursework(oop phase1)\\enums\\chip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC5C579-9DD9-44DA-9023-20A863FB9390}|CourseWork(OOP Phase1)\\CourseWork(OOP Phase1).csproj|solutionrelative:coursework(oop phase1)\\enums\\chip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC5C579-9DD9-44DA-9023-20A863FB9390}|CourseWork(OOP Phase1)\\CourseWork(OOP Phase1).csproj|d:\\tu course work\\phase 3\\coursework(oop phase1)\\coursework(oop phase1)\\dto\\conenctfourmockupmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC5C579-9DD9-44DA-9023-20A863FB9390}|CourseWork(OOP Phase1)\\CourseWork(OOP Phase1).csproj|solutionrelative:coursework(oop phase1)\\dto\\conenctfourmockupmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC5C579-9DD9-44DA-9023-20A863FB9390}|CourseWork(OOP Phase1)\\CourseWork(OOP Phase1).csproj|D:\\TU course work\\PHASE 3\\CourseWork(OOP Phase1)\\coursework(oop phase1)\\connectfourmockup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7FC5C579-9DD9-44DA-9023-20A863FB9390}|CourseWork(OOP Phase1)\\CourseWork(OOP Phase1).csproj|solutionrelative:coursework(oop phase1)\\connectfourmockup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC5C579-9DD9-44DA-9023-20A863FB9390}|CourseWork(OOP Phase1)\\CourseWork(OOP Phase1).csproj|d:\\tu course work\\phase 3\\coursework(oop phase1)\\coursework(oop phase1)\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC5C579-9DD9-44DA-9023-20A863FB9390}|CourseWork(OOP Phase1)\\CourseWork(OOP Phase1).csproj|solutionrelative:coursework(oop phase1)\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC5C579-9DD9-44DA-9023-20A863FB9390}|CourseWork(OOP Phase1)\\CourseWork(OOP Phase1).csproj|d:\\tu course work\\phase 3\\coursework(oop phase1)\\coursework(oop phase1)\\ishapeable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC5C579-9DD9-44DA-9023-20A863FB9390}|CourseWork(OOP Phase1)\\CourseWork(OOP Phase1).csproj|solutionrelative:coursework(oop phase1)\\ishapeable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC5C579-9DD9-44DA-9023-20A863FB9390}|CourseWork(OOP Phase1)\\CourseWork(OOP Phase1).csproj|d:\\tu course work\\phase 3\\coursework(oop phase1)\\coursework(oop phase1)\\shapes\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC5C579-9DD9-44DA-9023-20A863FB9390}|CourseWork(OOP Phase1)\\CourseWork(OOP Phase1).csproj|solutionrelative:coursework(oop phase1)\\shapes\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC5C579-9DD9-44DA-9023-20A863FB9390}|CourseWork(OOP Phase1)\\CourseWork(OOP Phase1).csproj|d:\\tu course work\\phase 3\\coursework(oop phase1)\\coursework(oop phase1)\\_resultrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC5C579-9DD9-44DA-9023-20A863FB9390}|CourseWork(OOP Phase1)\\CourseWork(OOP Phase1).csproj|solutionrelative:coursework(oop phase1)\\_resultrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC5C579-9DD9-44DA-9023-20A863FB9390}|CourseWork(OOP Phase1)\\CourseWork(OOP Phase1).csproj|D:\\TU course work\\PHASE 3\\CourseWork(OOP Phase1)\\coursework(oop phase1)\\_resultrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7FC5C579-9DD9-44DA-9023-20A863FB9390}|CourseWork(OOP Phase1)\\CourseWork(OOP Phase1).csproj|solutionrelative:coursework(oop phase1)\\_resultrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC5C579-9DD9-44DA-9023-20A863FB9390}|CourseWork(OOP Phase1)\\CourseWork(OOP Phase1).csproj|d:\\tu course work\\phase 3\\coursework(oop phase1)\\coursework(oop phase1)\\popup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC5C579-9DD9-44DA-9023-20A863FB9390}|CourseWork(OOP Phase1)\\CourseWork(OOP Phase1).csproj|solutionrelative:coursework(oop phase1)\\popup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC5C579-9DD9-44DA-9023-20A863FB9390}|CourseWork(OOP Phase1)\\CourseWork(OOP Phase1).csproj|d:\\tu course work\\phase 3\\coursework(oop phase1)\\coursework(oop phase1)\\popup.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC5C579-9DD9-44DA-9023-20A863FB9390}|CourseWork(OOP Phase1)\\CourseWork(OOP Phase1).csproj|solutionrelative:coursework(oop phase1)\\popup.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC5C579-9DD9-44DA-9023-20A863FB9390}|CourseWork(OOP Phase1)\\CourseWork(OOP Phase1).csproj|D:\\TU course work\\PHASE 3\\CourseWork(OOP Phase1)\\coursework(oop phase1)\\startmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7FC5C579-9DD9-44DA-9023-20A863FB9390}|CourseWork(OOP Phase1)\\CourseWork(OOP Phase1).csproj|solutionrelative:coursework(oop phase1)\\startmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\TU course work\\ivan.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC5C579-9DD9-44DA-9023-20A863FB9390}|CourseWork(OOP Phase1)\\CourseWork(OOP Phase1).csproj|D:\\TU course work\\PHASE 3\\CourseWork(OOP Phase1)\\coursework(oop phase1)\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7FC5C579-9DD9-44DA-9023-20A863FB9390}|CourseWork(OOP Phase1)\\CourseWork(OOP Phase1).csproj|solutionrelative:coursework(oop phase1)\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC5C579-9DD9-44DA-9023-20A863FB9390}|CourseWork(OOP Phase1)\\CourseWork(OOP Phase1).csproj|d:\\tu course work\\phase 3\\coursework(oop phase1)\\coursework(oop phase1)\\startmenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC5C579-9DD9-44DA-9023-20A863FB9390}|CourseWork(OOP Phase1)\\CourseWork(OOP Phase1).csproj|solutionrelative:coursework(oop phase1)\\startmenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC5C579-9DD9-44DA-9023-20A863FB9390}|CourseWork(OOP Phase1)\\CourseWork(OOP Phase1).csproj|d:\\tu course work\\phase 3\\coursework(oop phase1)\\coursework(oop phase1)\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC5C579-9DD9-44DA-9023-20A863FB9390}|CourseWork(OOP Phase1)\\CourseWork(OOP Phase1).csproj|solutionrelative:coursework(oop phase1)\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC5C579-9DD9-44DA-9023-20A863FB9390}|CourseWork(OOP Phase1)\\CourseWork(OOP Phase1).csproj|d:\\tu course work\\phase 3\\coursework(oop phase1)\\coursework(oop phase1)\\pauseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC5C579-9DD9-44DA-9023-20A863FB9390}|CourseWork(OOP Phase1)\\CourseWork(OOP Phase1).csproj|solutionrelative:coursework(oop phase1)\\pauseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC5C579-9DD9-44DA-9023-20A863FB9390}|CourseWork(OOP Phase1)\\CourseWork(OOP Phase1).csproj|D:\\TU course work\\PHASE 3\\CourseWork(OOP Phase1)\\coursework(oop phase1)\\pauseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7FC5C579-9DD9-44DA-9023-20A863FB9390}|CourseWork(OOP Phase1)\\CourseWork(OOP Phase1).csproj|solutionrelative:coursework(oop phase1)\\pauseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC5C579-9DD9-44DA-9023-20A863FB9390}|CourseWork(OOP Phase1)\\CourseWork(OOP Phase1).csproj|d:\\tu course work\\phase 3\\coursework(oop phase1)\\coursework(oop phase1)\\formsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC5C579-9DD9-44DA-9023-20A863FB9390}|CourseWork(OOP Phase1)\\CourseWork(OOP Phase1).csproj|solutionrelative:coursework(oop phase1)\\formsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC5C579-9DD9-44DA-9023-20A863FB9390}|CourseWork(OOP Phase1)\\CourseWork(OOP Phase1).csproj|d:\\tu course work\\phase 3\\coursework(oop phase1)\\coursework(oop phase1)\\formsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC5C579-9DD9-44DA-9023-20A863FB9390}|CourseWork(OOP Phase1)\\CourseWork(OOP Phase1).csproj|solutionrelative:coursework(oop phase1)\\formsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC5C579-9DD9-44DA-9023-20A863FB9390}|CourseWork(OOP Phase1)\\CourseWork(OOP Phase1).csproj|D:\\TU course work\\PHASE 3\\CourseWork(OOP Phase1)\\coursework(oop phase1)\\formsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7FC5C579-9DD9-44DA-9023-20A863FB9390}|CourseWork(OOP Phase1)\\CourseWork(OOP Phase1).csproj|solutionrelative:coursework(oop phase1)\\formsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC5C579-9DD9-44DA-9023-20A863FB9390}|CourseWork(OOP Phase1)\\CourseWork(OOP Phase1).csproj|D:\\TU course work\\PHASE 3\\CourseWork(OOP Phase1)\\coursework(oop phase1)\\formsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7FC5C579-9DD9-44DA-9023-20A863FB9390}|CourseWork(OOP Phase1)\\CourseWork(OOP Phase1).csproj|solutionrelative:coursework(oop phase1)\\formsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC5C579-9DD9-44DA-9023-20A863FB9390}|CourseWork(OOP Phase1)\\CourseWork(OOP Phase1).csproj|d:\\tu course work\\phase 3\\coursework(oop phase1)\\coursework(oop phase1)\\dto\\pencilboundsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC5C579-9DD9-44DA-9023-20A863FB9390}|CourseWork(OOP Phase1)\\CourseWork(OOP Phase1).csproj|solutionrelative:coursework(oop phase1)\\dto\\pencilboundsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC5C579-9DD9-44DA-9023-20A863FB9390}|CourseWork(OOP Phase1)\\CourseWork(OOP Phase1).csproj|d:\\tu course work\\phase 3\\coursework(oop phase1)\\coursework(oop phase1)\\dto\\pauseformdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC5C579-9DD9-44DA-9023-20A863FB9390}|CourseWork(OOP Phase1)\\CourseWork(OOP Phase1).csproj|solutionrelative:coursework(oop phase1)\\dto\\pauseformdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC5C579-9DD9-44DA-9023-20A863FB9390}|CourseWork(OOP Phase1)\\CourseWork(OOP Phase1).csproj|d:\\tu course work\\phase 3\\coursework(oop phase1)\\coursework(oop phase1)\\dto\\gameboarddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC5C579-9DD9-44DA-9023-20A863FB9390}|CourseWork(OOP Phase1)\\CourseWork(OOP Phase1).csproj|solutionrelative:coursework(oop phase1)\\dto\\gameboarddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC5C579-9DD9-44DA-9023-20A863FB9390}|CourseWork(OOP Phase1)\\CourseWork(OOP Phase1).csproj|d:\\tu course work\\phase 3\\coursework(oop phase1)\\coursework(oop phase1)\\enums\\gamestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC5C579-9DD9-44DA-9023-20A863FB9390}|CourseWork(OOP Phase1)\\CourseWork(OOP Phase1).csproj|solutionrelative:coursework(oop phase1)\\enums\\gamestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC5C579-9DD9-44DA-9023-20A863FB9390}|CourseWork(OOP Phase1)\\CourseWork(OOP Phase1).csproj|d:\\tu course work\\phase 3\\coursework(oop phase1)\\coursework(oop phase1)\\enums\\shapesenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC5C579-9DD9-44DA-9023-20A863FB9390}|CourseWork(OOP Phase1)\\CourseWork(OOP Phase1).csproj|solutionrelative:coursework(oop phase1)\\enums\\shapesenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC5C579-9DD9-44DA-9023-20A863FB9390}|CourseWork(OOP Phase1)\\CourseWork(OOP Phase1).csproj|d:\\tu course work\\phase 3\\coursework(oop phase1)\\coursework(oop phase1)\\shapes\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC5C579-9DD9-44DA-9023-20A863FB9390}|CourseWork(OOP Phase1)\\CourseWork(OOP Phase1).csproj|solutionrelative:coursework(oop phase1)\\shapes\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC5C579-9DD9-44DA-9023-20A863FB9390}|CourseWork(OOP Phase1)\\CourseWork(OOP Phase1).csproj|D:\\TU course work\\PHASE 3\\CourseWork(OOP Phase1)\\coursework(oop phase1)\\courseworkconnectfourishmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7FC5C579-9DD9-44DA-9023-20A863FB9390}|CourseWork(OOP Phase1)\\CourseWork(OOP Phase1).csproj|solutionrelative:coursework(oop phase1)\\courseworkconnectfourishmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC5C579-9DD9-44DA-9023-20A863FB9390}|CourseWork(OOP Phase1)\\CourseWork(OOP Phase1).csproj|d:\\tu course work\\phase 3\\coursework(oop phase1)\\coursework(oop phase1)\\ishapesoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC5C579-9DD9-44DA-9023-20A863FB9390}|CourseWork(OOP Phase1)\\CourseWork(OOP Phase1).csproj|solutionrelative:coursework(oop phase1)\\ishapesoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC5C579-9DD9-44DA-9023-20A863FB9390}|CourseWork(OOP Phase1)\\CourseWork(OOP Phase1).csproj|d:\\tu course work\\phase 3\\coursework(oop phase1)\\coursework(oop phase1)\\winnerfour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC5C579-9DD9-44DA-9023-20A863FB9390}|CourseWork(OOP Phase1)\\CourseWork(OOP Phase1).csproj|solutionrelative:coursework(oop phase1)\\winnerfour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC5C579-9DD9-44DA-9023-20A863FB9390}|CourseWork(OOP Phase1)\\CourseWork(OOP Phase1).csproj|D:\\TU course work\\PHASE 3\\CourseWork(OOP Phase1)\\coursework(oop phase1)\\popup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7FC5C579-9DD9-44DA-9023-20A863FB9390}|CourseWork(OOP Phase1)\\CourseWork(OOP Phase1).csproj|solutionrelative:coursework(oop phase1)\\popup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC5C579-9DD9-44DA-9023-20A863FB9390}|CourseWork(OOP Phase1)\\CourseWork(OOP Phase1).csproj|d:\\tu course work\\phase 3\\coursework(oop phase1)\\coursework(oop phase1)\\formsettings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC5C579-9DD9-44DA-9023-20A863FB9390}|CourseWork(OOP Phase1)\\CourseWork(OOP Phase1).csproj|solutionrelative:coursework(oop phase1)\\formsettings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC5C579-9DD9-44DA-9023-20A863FB9390}|CourseWork(OOP Phase1)\\CourseWork(OOP Phase1).csproj|d:\\tu course work\\phase 3\\coursework(oop phase1)\\coursework(oop phase1)\\connectfourmockup.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC5C579-9DD9-44DA-9023-20A863FB9390}|CourseWork(OOP Phase1)\\CourseWork(OOP Phase1).csproj|solutionrelative:coursework(oop phase1)\\connectfourmockup.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConnectFourMockUp.cs",
+              "DocumentMoniker": "D:\\TU course work\\PHASE 3\\CourseWork(OOP Phase1)\\CourseWork(OOP Phase1)\\ConnectFourMockUp.cs",
+              "RelativeDocumentMoniker": "CourseWork(OOP Phase1)\\ConnectFourMockUp.cs",
+              "ToolTip": "D:\\TU course work\\PHASE 3\\CourseWork(OOP Phase1)\\CourseWork(OOP Phase1)\\ConnectFourMockUp.cs",
+              "RelativeToolTip": "CourseWork(OOP Phase1)\\ConnectFourMockUp.cs",
+              "ViewState": "AQIAAFABAAAAAAAAAAAYwEEBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T15:19:51.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameLogic.cs",
+              "DocumentMoniker": "D:\\TU course work\\PHASE 3\\CourseWork(OOP Phase1)\\CourseWork(OOP Phase1)\\GameLogic.cs",
+              "RelativeDocumentMoniker": "CourseWork(OOP Phase1)\\GameLogic.cs",
+              "ToolTip": "D:\\TU course work\\PHASE 3\\CourseWork(OOP Phase1)\\CourseWork(OOP Phase1)\\GameLogic.cs",
+              "RelativeToolTip": "CourseWork(OOP Phase1)\\GameLogic.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAzwB0AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T15:22:13.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "test(updated).json",
+              "DocumentMoniker": "D:\\TU course work\\CourseWork(OOP Phase1)\\test(updated).json",
+              "RelativeDocumentMoniker": "..\\..\\CourseWork(OOP Phase1)\\test(updated).json",
+              "ToolTip": "D:\\TU course work\\CourseWork(OOP Phase1)\\test(updated).json",
+              "RelativeToolTip": "..\\..\\CourseWork(OOP Phase1)\\test(updated).json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-15T15:27:04.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConnectFourMockUp.cs [Design]",
+              "DocumentMoniker": "D:\\TU course work\\PHASE 3\\CourseWork(OOP Phase1)\\CourseWork(OOP Phase1)\\ConnectFourMockUp.cs",
+              "RelativeDocumentMoniker": "CourseWork(OOP Phase1)\\ConnectFourMockUp.cs",
+              "ToolTip": "D:\\TU course work\\PHASE 3\\CourseWork(OOP Phase1)\\CourseWork(OOP Phase1)\\ConnectFourMockUp.cs [Design]",
+              "RelativeToolTip": "CourseWork(OOP Phase1)\\ConnectFourMockUp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T20:48:01.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Chip.cs",
+              "DocumentMoniker": "D:\\TU course work\\PHASE 3\\CourseWork(OOP Phase1)\\CourseWork(OOP Phase1)\\Enums\\Chip.cs",
+              "RelativeDocumentMoniker": "CourseWork(OOP Phase1)\\Enums\\Chip.cs",
+              "ToolTip": "D:\\TU course work\\PHASE 3\\CourseWork(OOP Phase1)\\CourseWork(OOP Phase1)\\Enums\\Chip.cs",
+              "RelativeToolTip": "CourseWork(OOP Phase1)\\Enums\\Chip.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T17:41:35.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ResultRow.cs [Design]",
+              "DocumentMoniker": "D:\\TU course work\\PHASE 3\\CourseWork(OOP Phase1)\\CourseWork(OOP Phase1)\\_ResultRow.cs",
+              "RelativeDocumentMoniker": "CourseWork(OOP Phase1)\\_ResultRow.cs",
+              "ToolTip": "D:\\TU course work\\PHASE 3\\CourseWork(OOP Phase1)\\CourseWork(OOP Phase1)\\_ResultRow.cs [Design]",
+              "RelativeToolTip": "CourseWork(OOP Phase1)\\_ResultRow.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T10:07:01.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StartMenu.cs [Design]",
+              "DocumentMoniker": "D:\\TU course work\\PHASE 3\\CourseWork(OOP Phase1)\\CourseWork(OOP Phase1)\\StartMenu.cs",
+              "RelativeDocumentMoniker": "CourseWork(OOP Phase1)\\StartMenu.cs",
+              "ToolTip": "D:\\TU course work\\PHASE 3\\CourseWork(OOP Phase1)\\CourseWork(OOP Phase1)\\StartMenu.cs [Design]",
+              "RelativeToolTip": "CourseWork(OOP Phase1)\\StartMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T07:23:32.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ResultRow.cs",
+              "DocumentMoniker": "D:\\TU course work\\PHASE 3\\CourseWork(OOP Phase1)\\CourseWork(OOP Phase1)\\_ResultRow.cs",
+              "RelativeDocumentMoniker": "CourseWork(OOP Phase1)\\_ResultRow.cs",
+              "ToolTip": "D:\\TU course work\\PHASE 3\\CourseWork(OOP Phase1)\\CourseWork(OOP Phase1)\\_ResultRow.cs",
+              "RelativeToolTip": "CourseWork(OOP Phase1)\\_ResultRow.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAowA4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T10:07:03.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CourseWorkConnectFourishMain.cs",
+              "DocumentMoniker": "D:\\TU course work\\PHASE 3\\CourseWork(OOP Phase1)\\CourseWork(OOP Phase1)\\CourseWorkConnectFourishMain.cs",
+              "RelativeDocumentMoniker": "CourseWork(OOP Phase1)\\CourseWorkConnectFourishMain.cs",
+              "ToolTip": "D:\\TU course work\\PHASE 3\\CourseWork(OOP Phase1)\\CourseWork(OOP Phase1)\\CourseWorkConnectFourishMain.cs",
+              "RelativeToolTip": "CourseWork(OOP Phase1)\\CourseWorkConnectFourishMain.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAJEAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T09:51:59.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PopUp.Designer.cs",
+              "DocumentMoniker": "D:\\TU course work\\PHASE 3\\CourseWork(OOP Phase1)\\CourseWork(OOP Phase1)\\PopUp.Designer.cs",
+              "RelativeDocumentMoniker": "CourseWork(OOP Phase1)\\PopUp.Designer.cs",
+              "ToolTip": "D:\\TU course work\\PHASE 3\\CourseWork(OOP Phase1)\\CourseWork(OOP Phase1)\\PopUp.Designer.cs",
+              "RelativeToolTip": "CourseWork(OOP Phase1)\\PopUp.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T10:08:43.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "D:\\TU course work\\PHASE 3\\CourseWork(OOP Phase1)\\CourseWork(OOP Phase1)\\Shapes\\Triangle.cs",
+              "RelativeDocumentMoniker": "CourseWork(OOP Phase1)\\Shapes\\Triangle.cs",
+              "ToolTip": "D:\\TU course work\\PHASE 3\\CourseWork(OOP Phase1)\\CourseWork(OOP Phase1)\\Shapes\\Triangle.cs",
+              "RelativeToolTip": "CourseWork(OOP Phase1)\\Shapes\\Triangle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T09:51:49.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConenctFourMockUpMapper.cs",
+              "DocumentMoniker": "D:\\TU course work\\PHASE 3\\CourseWork(OOP Phase1)\\CourseWork(OOP Phase1)\\DTO\\ConenctFourMockUpMapper.cs",
+              "RelativeDocumentMoniker": "CourseWork(OOP Phase1)\\DTO\\ConenctFourMockUpMapper.cs",
+              "ToolTip": "D:\\TU course work\\PHASE 3\\CourseWork(OOP Phase1)\\CourseWork(OOP Phase1)\\DTO\\ConenctFourMockUpMapper.cs",
+              "RelativeToolTip": "CourseWork(OOP Phase1)\\DTO\\ConenctFourMockUpMapper.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAgwCwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T08:28:00.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PopUp.cs",
+              "DocumentMoniker": "D:\\TU course work\\PHASE 3\\CourseWork(OOP Phase1)\\CourseWork(OOP Phase1)\\PopUp.cs",
+              "RelativeDocumentMoniker": "CourseWork(OOP Phase1)\\PopUp.cs",
+              "ToolTip": "D:\\TU course work\\PHASE 3\\CourseWork(OOP Phase1)\\CourseWork(OOP Phase1)\\PopUp.cs",
+              "RelativeToolTip": "CourseWork(OOP Phase1)\\PopUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAArwAwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T17:15:14.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IShapeable.cs",
+              "DocumentMoniker": "D:\\TU course work\\PHASE 3\\CourseWork(OOP Phase1)\\CourseWork(OOP Phase1)\\IShapeable.cs",
+              "RelativeDocumentMoniker": "CourseWork(OOP Phase1)\\IShapeable.cs",
+              "ToolTip": "D:\\TU course work\\PHASE 3\\CourseWork(OOP Phase1)\\CourseWork(OOP Phase1)\\IShapeable.cs",
+              "RelativeToolTip": "CourseWork(OOP Phase1)\\IShapeable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T09:50:57.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "D:\\TU course work\\PHASE 3\\CourseWork(OOP Phase1)\\CourseWork(OOP Phase1)\\Form2.cs",
+              "RelativeDocumentMoniker": "CourseWork(OOP Phase1)\\Form2.cs",
+              "ToolTip": "D:\\TU course work\\PHASE 3\\CourseWork(OOP Phase1)\\CourseWork(OOP Phase1)\\Form2.cs",
+              "RelativeToolTip": "CourseWork(OOP Phase1)\\Form2.cs",
+              "ViewState": "AQIAAHQAAAAAAAAAAAAAAH0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T07:33:00.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "D:\\TU course work\\PHASE 3\\CourseWork(OOP Phase1)\\CourseWork(OOP Phase1)\\Form2.cs",
+              "RelativeDocumentMoniker": "CourseWork(OOP Phase1)\\Form2.cs",
+              "ToolTip": "D:\\TU course work\\PHASE 3\\CourseWork(OOP Phase1)\\CourseWork(OOP Phase1)\\Form2.cs [Design]",
+              "RelativeToolTip": "CourseWork(OOP Phase1)\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T17:00:08.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Form2.Designer.cs",
+              "DocumentMoniker": "D:\\TU course work\\PHASE 3\\CourseWork(OOP Phase1)\\CourseWork(OOP Phase1)\\Form2.Designer.cs",
+              "RelativeDocumentMoniker": "CourseWork(OOP Phase1)\\Form2.Designer.cs",
+              "ToolTip": "D:\\TU course work\\PHASE 3\\CourseWork(OOP Phase1)\\CourseWork(OOP Phase1)\\Form2.Designer.cs",
+              "RelativeToolTip": "CourseWork(OOP Phase1)\\Form2.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwGgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T17:05:05.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StartMenu.Designer.cs",
+              "DocumentMoniker": "D:\\TU course work\\PHASE 3\\CourseWork(OOP Phase1)\\CourseWork(OOP Phase1)\\StartMenu.Designer.cs",
+              "RelativeDocumentMoniker": "CourseWork(OOP Phase1)\\StartMenu.Designer.cs",
+              "ToolTip": "D:\\TU course work\\PHASE 3\\CourseWork(OOP Phase1)\\CourseWork(OOP Phase1)\\StartMenu.Designer.cs",
+              "RelativeToolTip": "CourseWork(OOP Phase1)\\StartMenu.Designer.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAhwDYAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T07:36:34.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ivan.json",
+              "DocumentMoniker": "D:\\TU course work\\ivan.json",
+              "RelativeDocumentMoniker": "..\\..\\ivan.json",
+              "ToolTip": "D:\\TU course work\\ivan.json",
+              "RelativeToolTip": "..\\..\\ivan.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-15T08:04:10.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FormSettings.cs",
+              "DocumentMoniker": "D:\\TU course work\\PHASE 3\\CourseWork(OOP Phase1)\\CourseWork(OOP Phase1)\\FormSettings.cs",
+              "RelativeDocumentMoniker": "CourseWork(OOP Phase1)\\FormSettings.cs",
+              "ToolTip": "D:\\TU course work\\PHASE 3\\CourseWork(OOP Phase1)\\CourseWork(OOP Phase1)\\FormSettings.cs",
+              "RelativeToolTip": "CourseWork(OOP Phase1)\\FormSettings.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwA0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T17:02:56.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PauseForm.cs",
+              "DocumentMoniker": "D:\\TU course work\\PHASE 3\\CourseWork(OOP Phase1)\\CourseWork(OOP Phase1)\\PauseForm.cs",
+              "RelativeDocumentMoniker": "CourseWork(OOP Phase1)\\PauseForm.cs",
+              "ToolTip": "D:\\TU course work\\PHASE 3\\CourseWork(OOP Phase1)\\CourseWork(OOP Phase1)\\PauseForm.cs",
+              "RelativeToolTip": "CourseWork(OOP Phase1)\\PauseForm.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAuwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T16:57:37.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PauseForm.cs [Design]",
+              "DocumentMoniker": "D:\\TU course work\\PHASE 3\\CourseWork(OOP Phase1)\\CourseWork(OOP Phase1)\\PauseForm.cs",
+              "RelativeDocumentMoniker": "CourseWork(OOP Phase1)\\PauseForm.cs",
+              "ToolTip": "D:\\TU course work\\PHASE 3\\CourseWork(OOP Phase1)\\CourseWork(OOP Phase1)\\PauseForm.cs [Design]",
+              "RelativeToolTip": "CourseWork(OOP Phase1)\\PauseForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T16:57:29.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FormSetting.cs [Design]",
+              "DocumentMoniker": "D:\\TU course work\\PHASE 3\\CourseWork(OOP Phase1)\\CourseWork(OOP Phase1)\\FormSetting.cs",
+              "RelativeDocumentMoniker": "CourseWork(OOP Phase1)\\FormSetting.cs",
+              "ToolTip": "D:\\TU course work\\PHASE 3\\CourseWork(OOP Phase1)\\CourseWork(OOP Phase1)\\FormSetting.cs [Design]",
+              "RelativeToolTip": "CourseWork(OOP Phase1)\\FormSetting.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T18:57:09.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FormSetting.cs",
+              "DocumentMoniker": "D:\\TU course work\\PHASE 3\\CourseWork(OOP Phase1)\\CourseWork(OOP Phase1)\\FormSetting.cs",
+              "RelativeDocumentMoniker": "CourseWork(OOP Phase1)\\FormSetting.cs",
+              "ToolTip": "D:\\TU course work\\PHASE 3\\CourseWork(OOP Phase1)\\CourseWork(OOP Phase1)\\FormSetting.cs",
+              "RelativeToolTip": "CourseWork(OOP Phase1)\\FormSetting.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T18:57:16.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PauseFormDTO.cs",
+              "DocumentMoniker": "D:\\TU course work\\PHASE 3\\CourseWork(OOP Phase1)\\CourseWork(OOP Phase1)\\DTO\\PauseFormDTO.cs",
+              "RelativeDocumentMoniker": "CourseWork(OOP Phase1)\\DTO\\PauseFormDTO.cs",
+              "ToolTip": "D:\\TU course work\\PHASE 3\\CourseWork(OOP Phase1)\\CourseWork(OOP Phase1)\\DTO\\PauseFormDTO.cs",
+              "RelativeToolTip": "CourseWork(OOP Phase1)\\DTO\\PauseFormDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T09:16:02.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FormSettings.cs [Design]",
+              "DocumentMoniker": "D:\\TU course work\\PHASE 3\\CourseWork(OOP Phase1)\\CourseWork(OOP Phase1)\\FormSettings.cs",
+              "RelativeDocumentMoniker": "CourseWork(OOP Phase1)\\FormSettings.cs",
+              "ToolTip": "D:\\TU course work\\PHASE 3\\CourseWork(OOP Phase1)\\CourseWork(OOP Phase1)\\FormSettings.cs [Design]",
+              "RelativeToolTip": "CourseWork(OOP Phase1)\\FormSettings.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T17:09:26.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "GameBoardDTO.cs",
+              "DocumentMoniker": "D:\\TU course work\\PHASE 3\\CourseWork(OOP Phase1)\\CourseWork(OOP Phase1)\\DTO\\GameBoardDTO.cs",
+              "RelativeDocumentMoniker": "CourseWork(OOP Phase1)\\DTO\\GameBoardDTO.cs",
+              "ToolTip": "D:\\TU course work\\PHASE 3\\CourseWork(OOP Phase1)\\CourseWork(OOP Phase1)\\DTO\\GameBoardDTO.cs",
+              "RelativeToolTip": "CourseWork(OOP Phase1)\\DTO\\GameBoardDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T08:51:43.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "pencilBoundsDTO.cs",
+              "DocumentMoniker": "D:\\TU course work\\PHASE 3\\CourseWork(OOP Phase1)\\CourseWork(OOP Phase1)\\DTO\\pencilBoundsDTO.cs",
+              "RelativeDocumentMoniker": "CourseWork(OOP Phase1)\\DTO\\pencilBoundsDTO.cs",
+              "ToolTip": "D:\\TU course work\\PHASE 3\\CourseWork(OOP Phase1)\\CourseWork(OOP Phase1)\\DTO\\pencilBoundsDTO.cs",
+              "RelativeToolTip": "CourseWork(OOP Phase1)\\DTO\\pencilBoundsDTO.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAIBJwA0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T09:30:01.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "GameStatus.cs",
+              "DocumentMoniker": "D:\\TU course work\\PHASE 3\\CourseWork(OOP Phase1)\\CourseWork(OOP Phase1)\\Enums\\GameStatus.cs",
+              "RelativeDocumentMoniker": "CourseWork(OOP Phase1)\\Enums\\GameStatus.cs",
+              "ToolTip": "D:\\TU course work\\PHASE 3\\CourseWork(OOP Phase1)\\CourseWork(OOP Phase1)\\Enums\\GameStatus.cs",
+              "RelativeToolTip": "CourseWork(OOP Phase1)\\Enums\\GameStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T20:07:48.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ShapesEnum.cs",
+              "DocumentMoniker": "D:\\TU course work\\PHASE 3\\CourseWork(OOP Phase1)\\CourseWork(OOP Phase1)\\Enums\\ShapesEnum.cs",
+              "RelativeDocumentMoniker": "CourseWork(OOP Phase1)\\Enums\\ShapesEnum.cs",
+              "ToolTip": "D:\\TU course work\\PHASE 3\\CourseWork(OOP Phase1)\\CourseWork(OOP Phase1)\\Enums\\ShapesEnum.cs",
+              "RelativeToolTip": "CourseWork(OOP Phase1)\\Enums\\ShapesEnum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T20:09:15.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "D:\\TU course work\\PHASE 3\\CourseWork(OOP Phase1)\\CourseWork(OOP Phase1)\\Shapes\\Circle.cs",
+              "RelativeDocumentMoniker": "CourseWork(OOP Phase1)\\Shapes\\Circle.cs",
+              "ToolTip": "D:\\TU course work\\PHASE 3\\CourseWork(OOP Phase1)\\CourseWork(OOP Phase1)\\Shapes\\Circle.cs",
+              "RelativeToolTip": "CourseWork(OOP Phase1)\\Shapes\\Circle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T09:50:17.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CourseWorkConnectFourishMain.cs [Design]",
+              "DocumentMoniker": "D:\\TU course work\\PHASE 3\\CourseWork(OOP Phase1)\\CourseWork(OOP Phase1)\\CourseWorkConnectFourishMain.cs",
+              "RelativeDocumentMoniker": "CourseWork(OOP Phase1)\\CourseWorkConnectFourishMain.cs",
+              "ToolTip": "D:\\TU course work\\PHASE 3\\CourseWork(OOP Phase1)\\CourseWork(OOP Phase1)\\CourseWorkConnectFourishMain.cs [Design]",
+              "RelativeToolTip": "CourseWork(OOP Phase1)\\CourseWorkConnectFourishMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T19:54:04.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IShapesOperations.cs",
+              "DocumentMoniker": "D:\\TU course work\\PHASE 3\\CourseWork(OOP Phase1)\\CourseWork(OOP Phase1)\\IShapesOperations.cs",
+              "RelativeDocumentMoniker": "CourseWork(OOP Phase1)\\IShapesOperations.cs",
+              "ToolTip": "D:\\TU course work\\PHASE 3\\CourseWork(OOP Phase1)\\CourseWork(OOP Phase1)\\IShapesOperations.cs",
+              "RelativeToolTip": "CourseWork(OOP Phase1)\\IShapesOperations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T15:48:57.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "WinnerFour.cs",
+              "DocumentMoniker": "D:\\TU course work\\PHASE 3\\CourseWork(OOP Phase1)\\CourseWork(OOP Phase1)\\WinnerFour.cs",
+              "RelativeDocumentMoniker": "CourseWork(OOP Phase1)\\WinnerFour.cs",
+              "ToolTip": "D:\\TU course work\\PHASE 3\\CourseWork(OOP Phase1)\\CourseWork(OOP Phase1)\\WinnerFour.cs",
+              "RelativeToolTip": "CourseWork(OOP Phase1)\\WinnerFour.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T19:48:48.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "PopUp.cs [Design]",
+              "DocumentMoniker": "D:\\TU course work\\PHASE 3\\CourseWork(OOP Phase1)\\CourseWork(OOP Phase1)\\PopUp.cs",
+              "RelativeDocumentMoniker": "CourseWork(OOP Phase1)\\PopUp.cs",
+              "ToolTip": "D:\\TU course work\\PHASE 3\\CourseWork(OOP Phase1)\\CourseWork(OOP Phase1)\\PopUp.cs [Design]",
+              "RelativeToolTip": "CourseWork(OOP Phase1)\\PopUp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T17:15:12.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "FormSettings.Designer.cs",
+              "DocumentMoniker": "D:\\TU course work\\PHASE 3\\CourseWork(OOP Phase1)\\CourseWork(OOP Phase1)\\FormSettings.Designer.cs",
+              "RelativeDocumentMoniker": "CourseWork(OOP Phase1)\\FormSettings.Designer.cs",
+              "ToolTip": "D:\\TU course work\\PHASE 3\\CourseWork(OOP Phase1)\\CourseWork(OOP Phase1)\\FormSettings.Designer.cs",
+              "RelativeToolTip": "CourseWork(OOP Phase1)\\FormSettings.Designer.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAIwCsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T17:13:23.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ConnectFourMockUp.Designer.cs",
+              "DocumentMoniker": "D:\\TU course work\\PHASE 3\\CourseWork(OOP Phase1)\\CourseWork(OOP Phase1)\\ConnectFourMockUp.Designer.cs",
+              "RelativeDocumentMoniker": "CourseWork(OOP Phase1)\\ConnectFourMockUp.Designer.cs",
+              "ToolTip": "D:\\TU course work\\PHASE 3\\CourseWork(OOP Phase1)\\CourseWork(OOP Phase1)\\ConnectFourMockUp.Designer.cs",
+              "RelativeToolTip": "CourseWork(OOP Phase1)\\ConnectFourMockUp.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T08:41:24.155Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

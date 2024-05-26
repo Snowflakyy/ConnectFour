@@ -1,0 +1,93 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\TU course work\\PHASE 3\\CourseWork(OOP Phase1)\\CourseWork(OOP Phase1)\\CourseWork(OOP Phase1).csproj": {}
+  },
+  "projects": {
+    "D:\\TU course work\\PHASE 3\\CourseWork(OOP Phase1)\\CourseWork(OOP Phase1)\\CourseWork(OOP Phase1).csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\TU course work\\PHASE 3\\CourseWork(OOP Phase1)\\CourseWork(OOP Phase1)\\CourseWork(OOP Phase1).csproj",
+        "projectName": "CourseWork(OOP Phase1)",
+        "projectPath": "D:\\TU course work\\PHASE 3\\CourseWork(OOP Phase1)\\CourseWork(OOP Phase1)\\CourseWork(OOP Phase1).csproj",
+        "packagesPath": "C:\\Users\\Yavor\\.nuget\\packages\\",
+        "outputPath": "D:\\TU course work\\PHASE 3\\CourseWork(OOP Phase1)\\CourseWork(OOP Phase1)\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Yavor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "Accord": {
+              "target": "Package",
+              "version": "[3.8.0, )"
+            },
+            "Accord.Imaging": {
+              "target": "Package",
+              "version": "[3.8.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "runtime.osx.10.10-x64.CoreCompat.System.Drawing": {
+              "target": "Package",
+              "version": "[6.0.5.128, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
