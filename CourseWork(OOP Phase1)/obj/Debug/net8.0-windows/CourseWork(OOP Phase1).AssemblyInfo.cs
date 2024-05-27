@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CourseWork(OOP Phase1)")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac0cd9940b0b9c1ba492f01727cd33e1706611de")]
 [assembly: System.Reflection.AssemblyProductAttribute("CourseWork(OOP Phase1)")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CourseWork(OOP Phase1)")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
